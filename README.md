@@ -2,7 +2,7 @@
 * 🦈 My name is Jakub but you can call me QBI!
 * 🏫 I am a 17 year old high school student in Poland
 * 🤖 I love automatization and optimization!
-
+* ⚡ Fun fact: I love sharks if you can't tell already 
 
 <!--
 **qbibubi/qbibubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
