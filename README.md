@@ -1,6 +1,6 @@
 ### Hi there and welcome! 👋
 * 🦈 My name is Jakub but you can call me Qbi!
-* 🏫 I am a 17 year old high school student in Poland
+* 🏫 I am an 18 year old high school student in Poland
 * 🤖 I love automatization and optimization!
 * ⚡ Fun fact: I love sharks if you can't tell already 
 
