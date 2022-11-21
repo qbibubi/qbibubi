@@ -1,8 +1,9 @@
-### Hi there and welcome! 👋
-* 🦈 My name is Jakub but you can call me Qbi!
-* 🏫 I am an 18 year old high school student in Poland
+### Welcome! 👋
+* 🦈 My name is Jakub but you can call me QBI!
+* 🏫 18 year old high school student based in Poland.
 * 🤖 I love automatization and optimization!
-* ⚡ Fun fact: I love sharks if you can't tell already 
+* ⚡ Fun fact: I love sharks if you can't tell already :D
+* 🌱 I’m currently learning VueJS and TailwindCSS 
 
 <!--
 **qbibubi/qbibubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
