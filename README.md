@@ -3,7 +3,7 @@
     <h1>Welcome! My name is Jakub</h1>
   </header>
   <main>
-    <div> I'm a programmer from Poland with an endless passion for mushrooms and all forms of fungi. Mostly interested in CPU architecture and lower level concepts of computer science. </div>
+    <div> I am a programmer from Poland with an endless passion for mushrooms and all forms of fungi. Mostly interested in CPU architecture and lower level concepts of computer science. </div>
   </main>
   <br />
   <footer>
