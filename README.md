@@ -10,7 +10,7 @@
     <a aria-label="Github" href="https://github.com/qbibubi">
       <img src="" alt="Github" />
     </a>
-    <a aria-label="LinkedIn" href="https://github.com/qbibubi](https://www.linkedin.com/in/jakub-sobieraj-11b96025a">
+    <a aria-label="LinkedIn" href="https://www.linkedin.com/in/jakub-sobieraj-11b96025a">
       <img src="" alt="LinkedIn" />
     </a>
     <!--
