@@ -17,6 +17,9 @@
     <a aria-label="Blog" href="">
       <img src="" alt="Blog" />
     </a>
+     <a aria-label="Twitter" href="https://twitter.com/Qbibubi">
+      <img src="" alt="Blog" />
+    </a>
     -->
   </footer>
 </div>
