@@ -1,9 +1,26 @@
-### Welcome! 👋
-* 🦈 My name is Jakub but you can call me QBI!
-* 🏫 18 year old high school student based in Poland.
-* 🤖 I love automatization and optimization!
-* ⚡ Fun fact: I love sharks if you can't tell already :D
-* 🌱 I’m currently learning VueJS and TailwindCSS 
+<div align="center">
+  <header>
+    <h1>Welcome! My name is Jakub</h1>
+  </header>
+  <main>
+    <div> I'm a programmer from Poland with an endless passion for mushrooms and all forms of fungi. Mostly interested in CPU architecture and lower level concepts of computer science. </div>
+  </main>
+  <br />
+  <footer>
+    <a aria-label="Github" href="https://github.com/qbibubi">
+      <img src="" alt="Github" />
+    </a>
+    <a aria-label="LinkedIn" href="https://github.com/qbibubi](https://www.linkedin.com/in/jakub-sobieraj-11b96025a">
+      <img src="" alt="LinkedIn" />
+    </a>
+    <!--
+    <a aria-label="Blog" href="">
+      <img src="" alt="Blog" />
+    </a>
+    -->
+  </footer>
+</div>
+
 
 <!--
 **qbibubi/qbibubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
