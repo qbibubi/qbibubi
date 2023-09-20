@@ -8,10 +8,10 @@
   <br />
   <footer>
     <a aria-label="Github" href="https://github.com/qbibubi">
-      <img src="https://github.com/qbibubi/qbibubi/blob/main/res/github-mark-white.svg" alt="Github" width="24" height="24" />
+      <img src="https://github.com/qbibubi/qbibubi/blob/main/res/github-mark-white.svg" alt="Github" width="32" height="32" />
     </a>
     <a aria-label="LinkedIn" href="https://www.linkedin.com/in/jakub-sobieraj-11b96025a">
-      <img src="" alt="LinkedIn" />
+      <img src="" alt="LinkedIn" width="32" height="32"/>
     </a>
     <!--
     <a aria-label="Blog" href="">
