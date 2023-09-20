@@ -3,7 +3,7 @@
     <h1>Welcome! My name is Jakub</h1>
   </header>
   <main>
-    <div> I am a programmer from Poland with an endless passion for mushrooms and all forms of fungi. Mostly interested in CPU architecture and lower level concepts of computer science. </div>
+    <div>I am a programmer from Poland with an endless passion for mushrooms and all forms of fungi. Mostly interested in CPU architecture and lower level concepts of computer science.</div>
   </main>
   <br />
   <footer>
@@ -11,7 +11,7 @@
       <img src="https://github.com/qbibubi/qbibubi/blob/main/res/github-mark-white.svg" alt="Github" width="32" height="32" />
     </a>
     <a aria-label="LinkedIn" href="https://www.linkedin.com/in/jakub-sobieraj-11b96025a">
-      <img src="" alt="LinkedIn" width="32" height="32"/>
+      <img src="https://github.com/qbibubi/qbibubi/blob/main/res/linkedin-mark.svg" alt="LinkedIn" width="32" height="32"/>
     </a>
     <!--
     <a aria-label="Blog" href="">
