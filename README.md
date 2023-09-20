@@ -8,7 +8,7 @@
   <br />
   <footer>
     <a aria-label="Github" href="https://github.com/qbibubi">
-      <img src="https://github.com/qbibubi/qbibubi/blog/main/res/github-white-mark.svg" alt="Github" />
+      <img src="https://github.com/qbibubi/qbibubi/blog/main/res/github-mark-white.svg" alt="Github" />
     </a>
     <a aria-label="LinkedIn" href="https://www.linkedin.com/in/jakub-sobieraj-11b96025a">
       <img src="" alt="LinkedIn" />
